@@ -110,12 +110,6 @@ The long-term objective is to evolve this into a research-driven, data-informed 
 
 ---
 
-# Screenshots
-
-### Live Trading Workspace
-<img src="images/workspace.png" width="900" />
-
----
 
 Independent quant development project.  
 Codebase is private.
