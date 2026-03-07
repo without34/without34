@@ -24,7 +24,7 @@ An automated US stock trading platform designed with a strong focus on reliabili
 # Architecture & Tech Stack
 
 ## Execution Engine
-- C# multithreaded trading core
+- C# multi-threaded trading core
 - Deterministic order logic
 - IBKR API integration
 - Real-time candle, indicator and orderbook processing
