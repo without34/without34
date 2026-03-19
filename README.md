@@ -34,7 +34,7 @@ An automated US stock trading platform designed with a strong focus on reliabili
   
 
 ## Real-time UI Engine 
-- Cabdle chart and indicator
+- Candle chart and indicator
 - Signal panel
 - Orderbook
 - Order management
