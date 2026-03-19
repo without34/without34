@@ -3,7 +3,7 @@
 Senior Software Engineer with 15+ years of experience building real-time distributed backend systems.
 
 My primary background is in large-scale game server architecture and AWS-based cloud services at Amazon.  
-I have worked extensively on multi-threaded C/C++ server engines, network protocols (UDP/TCP), concurrency control, and scalable cloud infrastructure.
+I have worked extensively on multi-threaded C/C++ server engines, network protocols (UDP/TCP), concurrency control, and scalable cloud infrastructure in Java, NodeJs, Python.
 
 I enjoy entering new technical domains and building systems from first principles.  
 Having worked across C/C++, C#, Java, Scala, Python, and Node.js, I focus on core system design principles rather than being attached to specific tools.
